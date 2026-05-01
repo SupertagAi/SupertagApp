@@ -82,7 +82,7 @@ Best for occasional users or those with variable workloads.
 
 ## 🚀 Quick Start
 
-1. Download from [GitHub Releases](https://github.com/sinchaifx/Supertag-app/releases/)
+1. Download from [GitHub Releases](https://github.com/supertagai/Supertag/releases/)
 2. Run the installer
 3. Login with Google or Discord
 4. Select files and start processing
@@ -94,7 +94,7 @@ Copyright © 2025 Supertag. All rights reserved.
 ## 📞 Contact
 
 - Website: [supertagai.vercel.app](https://supertagai.vercel.app)
-- GitHub: https://github.com/sinchaifx/Supertag-app
+- GitHub: https://github.com/supertagai/Supertag
 - Discord: [Join our Discord](https://discord.gg/UYXKY4SA)
 
 ---
